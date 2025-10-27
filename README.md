@@ -10,17 +10,17 @@
 - 🌱 Currently learning advance in  **clean architecture** ,  **automation**  and  **APIs integration** .  
 - ⚡ I’m passionate about acquiring new technical skills and developing practical projects that have solutions to problems.  
 - 🎨 When I’m not coding, I like design, swimming 🏊‍♂️ and trying out new things in tech.
-- 
+
+
 <div align="center">
   <a href="mailto:eslammohamed34564@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/eslam-mohamed-3b8547233" target="_blank">
+  <a href="[www.linkedin.com/in/eslam-mohamed-3b8547233](https://www.linkedin.com/in/eslam-mohamed-3b8547233/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <!-- TODO: Add Portfolio -->
 </div>
-
 
 ## 🧰 Tech Stack  
 **Frontend:**  
@@ -31,7 +31,6 @@
 </p> 
 
 **Backend:**  
-💡 ASP.NET Core | 🧩 Entity Framework | 🗃️ SQL Server | 🔐 RESTful APIs  
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,SQL,RESTfulAPIs" />
