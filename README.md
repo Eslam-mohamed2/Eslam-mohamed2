@@ -16,7 +16,7 @@
   <a href="mailto:eslammohamed34564@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="[www.linkedin.com/in/eslam-mohamed-3b8547233](https://www.linkedin.com/in/eslam-mohamed-3b8547233/)" target="_blank">
+  <a href="https://www.linkedin.com/in/eslam-mohamed-3b8547233/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <!-- TODO: Add Portfolio -->
